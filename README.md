@@ -48,7 +48,7 @@ The model consists of **multiple convolutional layers**, **max pooling layers**,
 
 ## 📈 Results  
 
-| ** Metric** | **value ** |
+| **Metric** | **value** |
 |-------------|------------|
 | **Test loss**  | **0.2112** |
 | **Test Accuracy**  | **90.76%** |
